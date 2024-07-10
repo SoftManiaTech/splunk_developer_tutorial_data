@@ -1,0 +1,11 @@
+timestamp,host_name,clientIp,Method_API,status_code,bytes_sent_toAPI,browser_name,referrer_name
+2024/06/01 12:00:01,appserver3,192.168.2.10,GET,200,1800,Mozilla/5.0,http://example.com
+2024/06/01 12:00:03,appserver4,192.168.2.11,POST,202,2500,Chrome/90.0,http://example.com/login
+2024/06/01 12:00:05,appserver3,192.168.2.12,GET,404,0,Firefox/88.0,http://example.com/register
+2024/06/01 12:00:07,appserver4,192.168.2.13,DELETE,500,600,Safari/14.0,http://example.com/logout
+2024/06/01 12:00:09,appserver3,192.168.2.14,PUT,200,1100,Edge/91.0,http://example.com/profile
+2024/06/01 12:00:11,appserver4,192.168.2.15,GET,200,1800,Opera/76.0,http://example.com/settings
+2024/06/01 12:00:13,appserver3,192.168.2.16,POST,202,2500,Chrome/90.0,http://example.com/support
+2024/06/01 12:00:15,appserver4,192.168.2.17,GET,404,0,Firefox/88.0,http://example.com
+2024/06/01 12:00:17,appserver3,192.168.2.18,DELETE,500,600,Edge/91.0,http://example.com
+2024/06/01 12:00:19,appserver4,192.168.2.19,PUT,200,1100,Safari/14.0,http://example.com/contact

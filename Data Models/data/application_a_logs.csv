@@ -1,0 +1,11 @@
+event_time,app_host,src_ip,http_method,response_code,data_transferred,user_agent,referrer
+2024-06-01T12:00:00,appserver1,192.168.1.10,GET,200,1500,Mozilla/5.0,http://example.com
+2024-06-01T12:00:02,appserver2,192.168.1.11,POST,201,2000,Chrome/90.0,http://example.com/contact
+2024-06-01T12:00:04,appserver1,192.168.1.12,GET,404,0,Firefox/88.0,http://example.com/about
+2024-06-01T12:00:06,appserver2,192.168.1.13,DELETE,500,500,Safari/14.0,http://example.com/home
+2024-06-01T12:00:08,appserver1,192.168.1.14,PUT,200,1000,Edge/91.0,http://example.com
+2024-06-01T12:00:10,appserver2,192.168.1.15,GET,200,1500,Opera/76.0,http://example.com/services
+2024-06-01T12:00:12,appserver1,192.168.1.16,POST,201,2000,Chrome/90.0,http://example.com/products
+2024-06-01T12:00:14,appserver2,192.168.1.17,GET,404,0,Firefox/88.0,http://example.com
+2024-06-01T12:00:16,appserver1,192.168.1.18,DELETE,500,500,Edge/91.0,http://example.com
+2024-06-01T12:00:18,appserver2,192.168.1.19,PUT,200,1000,Safari/14.0,http://example.com/contact
